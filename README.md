@@ -1,1 +1,1 @@
-# summarizing_agent
+# report_generator_agent
