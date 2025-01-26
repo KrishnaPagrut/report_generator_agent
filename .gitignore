@@ -1,0 +1,11 @@
+# Environment variables
+keys.env
+.env
+
+# System files
+.DS_Store
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
